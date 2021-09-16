@@ -532,6 +532,13 @@ section {
   }
 }
 
+
+#sign_form {
+  background: #f7f7f7;
+  background-size: cover;
+  padding: 80px 0 60px 0;
+}
+
 /* About Us Section
 --------------------------------*/
 #about {
@@ -1155,10 +1162,4 @@ section {
 .single-line{
   display: inline-grid;
   grid-template-columns: auto auto;
-}
-
-#sign_form {
-  background: #f7f7f7;
-  background-size: cover;
-  padding: 80px 0 60px 0;
 }
